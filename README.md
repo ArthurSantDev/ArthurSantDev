@@ -1,4 +1,4 @@
-<img align="right" height="500px" src"[https://gist.github.com/ArthurSantDev/44874c24627d91ea3f20fc4c11344d44](https://gist.github.com/ArthurSantDev/44874c24627d91ea3f20fc4c11344d44#file-githubcard-svg)".
+<img align="right" height="500px" src"https://gist.github.com/ArthurSantDev/44874c24627d91ea3f20fc4c11344d44#file-githubcard-svg"/>
 # 💫 About Me:
 👋 Olá, sou Arthur! 👨‍💻 Estudante de programação dedicado e entusiasta de Front & Back End 📊🔍. Atualmente, estou imerso no mundo da codificação enquanto persigo meu diploma em Ciência de Dados 🎓. Estou constantemente buscando aprender e aprimorar minhas habilidades técnicas, sempre em busca de desafios e oportunidades para expandir meu conhecimento 💡. Apaixonado por resolver problemas complexos e transformar dados em insights acionáveis. Vamos construir algo incrível juntos! 💻✨
 
